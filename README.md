@@ -73,3 +73,6 @@ Last but not least, if you're a fan of XML, you can also produce an XML document
   <LogonEntry type="UserProcess" user="vagrant" terminal="pts/3" pid="2925" host="fe80::a00:27ff:fe00:eec2%enp0s8" timestamp="2016-03-31T16:47:18.450328+00:00" time_epoch="1459442838" remote_ip="fe80:0000:0000:0000:0a00:27ff:fe00:eec2"></LogonEntry>
 </LogonEntries>
 ```
+
+## License
+`mhwho` is licensed under the GNU GPL version 3. Software must be free.
